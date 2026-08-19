@@ -4,9 +4,9 @@ Machine Learning project for automatic classification of waste images into eight
 
 ## Team
 
-| Name | Student ID |
-|------|------------|
-| Francesco Vittorio Allocca
+| Name |
+|------|
+|Francesco Vittorio Allocca
 | Aniello Di Meglio
 | Gennaro Foschillo
 
